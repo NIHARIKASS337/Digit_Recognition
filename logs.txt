@@ -1,0 +1,34 @@
+time, filename ,predicted
+Tue Oct 25 21:29:39 2022, C:/Users/this pc/Downloads/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_153.jpg, 5
+time, filename ,predicted
+Tue Oct 25 21:30:41 2022, C:/Users/this pc/Downloads/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_15297.jpg, 4
+time, filename ,predicted
+Wed Oct 26 11:08:01 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_1.jpg, 2
+time, filename ,predicted
+Wed Oct 26 12:07:13 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_15.jpg, 9
+time, filename ,predicted
+Wed Oct 26 12:12:20 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_1.jpg, 2
+time, filename ,predicted
+Wed Oct 26 12:19:30 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_12.jpg, 2
+time, filename ,predicted
+Wed Oct 26 14:19:55 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_10.jpg, 3
+time, filename ,predicted
+Wed Oct 26 14:20:18 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_10290.jpg, 8
+time, filename ,predicted
+Wed Oct 26 14:20:48 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_14.jpg, 0
+time, filename ,predicted
+Wed Oct 26 14:21:26 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_11252.jpg, 9
+time, filename ,predicted
+Wed Oct 26 14:22:01 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_15.jpg, 9
+time, filename ,predicted
+Wed Oct 26 23:59:27 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_10.jpg, 3
+time, filename ,predicted
+Thu Oct 27 11:46:44 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_14.jpg, 0
+time, filename ,predicted
+Thu Oct 27 12:25:52 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_11.jpg, 3
+time, filename ,predicted
+Thu Oct 27 12:26:11 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_112.jpg, 0
+time, filename ,predicted
+Thu Oct 27 18:34:49 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_14.jpg, 0
+time, filename ,predicted
+Thu Oct 27 18:40:42 2022, E:/MCA/MNSIST_Handwritten_Digit_Recognition-SVM-master/TestSet/img_1307.jpg, 7
